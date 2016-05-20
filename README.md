@@ -1,2 +1,2 @@
-# bb-stack-trainingES
-TrainingStack for BigBoards
+# bb-stack-sandstorm
+TrainingStack for BigBoards to tackle some sandstorms
